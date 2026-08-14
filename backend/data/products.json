@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Cotton Kurta",
+    "price": 1299,
+    "category": "Clothing"
+  },
+  {
+    "id": "2",
+    "name": "Steel Water Bottle",
+    "price": 649,
+    "category": "Kitchen"
+  },
+  {
+    "id": "3",
+    "name": "Leather Wallet",
+    "price": 899,
+    "category": "Accessories"
+  },
+  {
+    "id": "4",
+    "name": "Ceramic Mug",
+    "price": 399,
+    "category": "Kitchen"
+  },
+  {
+    "id": "5",
+    "name": "Running Shoes",
+    "price": 2499,
+    "category": "Footwear"
+  }
+]
